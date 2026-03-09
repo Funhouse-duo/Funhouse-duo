@@ -1,4 +1,7 @@
-## Hi there 👋
+
+
+
+<img width="3041" height="3227" alt="github1" src="https://github.com/user-attachments/assets/584eabd2-1787-4a48-b3f1-6064d28b7048" />
 
 <!--
 **Funhouse-duo/Funhouse-duo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
